@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<survey>
+	<question name="What did you eat for breakfast?">
+		<option>Cereal</option>
+		<option>Fruit</option>
+		<option>Eggs</option>
+		<option>Nothing</option>
+	</question>
+	<question name="What did you eat for lunch?">
+		<option>Sandwich</option>
+		<option>Soup</option>
+		<option>Chili</option>
+		<option>Nothing</option>
+	</question>
+	<question name="What did you eat for dinner?">
+		<option>Chicken</option>
+		<option>Pasta</option>
+		<option>Pizza</option>
+		<option>Nothing</option>
+	</question>
+	<question name="What did you eat for breakfast?">
+		<option>100ml</option>
+		<option>250ml</option>
+		<option>500ml</option>
+		<option>1L</option>
+	</question>
+</survey>
